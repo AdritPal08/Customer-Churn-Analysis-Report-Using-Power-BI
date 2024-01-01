@@ -21,6 +21,11 @@ In this Section,  I analyzed Not Churned customers' data and Create a Machine Le
 4th Section:
 Q & A: This page has Q&A Section.
 
+
+## Dashboard
+* Dashboard Link: [Click Here](https://app.powerbi.com/view?r=eyJrIjoiZTExNjc3NWItNjQyZS00YjZmLTljNzYtZTc3MWU1MzcxYzNlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
+  
 ## Screenshots
 
 ![App Screenshot](https://github.com/AdritPal08/Customer-Churn-Analysis-Report-Using-Power-BI/blob/main/P1.png)
